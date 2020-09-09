@@ -1,0 +1,105 @@
+.container{
+    width: 500px;    
+}
+
+.h1{
+    color: black;
+    margin-bottom: 30px;
+    font-size: smaller;
+    text-align: center;
+}
+.header {
+    overflow: hidden;
+    background-color: rgb(22, 22, 10);
+    padding: 10px 10px;
+    font-size: small;
+    color : rgb(241, 241, 23);
+  }
+  .btnnn {
+    background-color: rgb(231, 105, 105); /* Blue background */
+    border: none; /* Remove borders */
+    color: rgb(17, 16, 16); /* White text */
+    padding: 5px 10px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  
+  /* Darker background on mouse-over */
+  .btnnn:hover {
+    background-color: rgb(187, 183, 183);
+  }
+​
+  .btnn {
+    background-color: rgb(211, 214, 16); /* Blue background */
+    border: none; /* Remove borders */
+    color: rgb(17, 16, 16); /* White text */
+    padding: 5px 10px; /* Some padding */
+    font-size: 16px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  }
+  .btnn:hover {
+    background-color: rgb(187, 183, 183);
+  }
+
+input#form {
+    background-color: #E7EB12;
+    color: #141212;
+    padding: 5px 20px;
+    border:1px solid rgb(209, 201, 201);
+    font-size: large;
+    margin-top: 20px;
+   text-align: center;
+   border-radius: 10%;
+   border: SOLID rgb(252, 255, 69);
+  }
+  input#form:hover {
+    background-color: #DBF819;
+    color: black;
+  }
+  input#form:disabled{
+    color: #212529;
+    background-color: rgb(238, 253, 98);
+  }
+  .required{
+    color: red;
+  }
+
+  table{
+    width: 100%;
+    background-color: rgb(32, 32, 31); 
+   
+    
+  }
+​
+  td{
+    font-size: larger;
+    border-color: 2px solid black;
+  }
+  th{
+    font-size: larger;
+    border-color: 2px solid black;
+    font-weight: 1000;
+    font-style: initial;
+    text-align: center;
+  }
+  .search-form-field{
+    width: 25%;
+   
+    
+    padding: 5px 10px;
+    background-color: rgb(70, 70, 56);
+    /* border-radius: 5px; */
+  }
+  .search-form-field div.mat-form-field-underline {
+    display: none;
+  }
+  .search-form-field div.mat-form-field-infix{
+    border-top: 0px;
+  }
+  .search-form-field div.mat-form-field-wrapper{
+    padding-bottom: 0px;
+  }
+  .search-form-field div.mat-form-field-sufix button{
+    height: 32px;
+    width: 32px;
+  }
