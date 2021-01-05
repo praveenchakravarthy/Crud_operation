@@ -10,7 +10,7 @@ const header = {
   'Content-Type': 'application/json',
   'Accept': 'application/json',
   'Access-Control-Allow-Headers': 'Content-Type',
-  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUHJhdmVlbiBDaGFrcmF2YXJ0aHkiLCJpZCI6MSwiZW1haWwiOiJwcmF2ZWVuLmNoYWtyYXZhcnRoeUByZWFkeWFzc2lzdC5pbiIsIm1vYmlsZU5vIjoiOTc4OTQ0NzYyOCIsIlJvbGVOYW1lIjoiQWRtaW4iLCJ2ZW5kb3JJZCI6MSwiaWF0IjoxNTk4ODUyNDYwLCJleHAiOjE2MDE0NDQ0NjB9.jOrmeFnBMaYve49vXwJCd-KjVkiMny9tB4Gh-A2Yw3w'
+  'Authorization': 'Bearer eyJh..........'
 }
 const request = {                                                                                                                                                                                 
   headers: new HttpHeaders(header), 
